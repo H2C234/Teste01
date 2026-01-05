@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 3-Body Statistical Simulator",
+  "description": "An interactive 3-body physics simulation with real-time statistical analysis, KDE density maps, and distribution visualizations.",
+  "requestFramePermissions": []
+}
